@@ -1,2 +1,2 @@
-# 15-Puzzle-Game
+# 15-puzzle-ts
 Puzzle game

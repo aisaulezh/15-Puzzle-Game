@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/15-Puzzle-Game/static/css/main.1fbd88cc.css",
+    "main.js": "/15-Puzzle-Game/static/js/main.6dc91f75.js",
+    "static/js/453.89dbffb9.chunk.js": "/15-Puzzle-Game/static/js/453.89dbffb9.chunk.js",
+    "index.html": "/15-Puzzle-Game/index.html",
+    "main.1fbd88cc.css.map": "/15-Puzzle-Game/static/css/main.1fbd88cc.css.map",
+    "main.6dc91f75.js.map": "/15-Puzzle-Game/static/js/main.6dc91f75.js.map",
+    "453.89dbffb9.chunk.js.map": "/15-Puzzle-Game/static/js/453.89dbffb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fbd88cc.css",
+    "static/js/main.6dc91f75.js"
+  ]
+}
